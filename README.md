@@ -15,3 +15,4 @@ Em cada pasta encontram-se:
 ## Dojos realizados
 
 * [2019-01-18](2019-01-18): FizzBuzz
+* [2019-02-08](2019-02-08): Palavras primas
